@@ -25,6 +25,18 @@ A Javascript library for working with native objects.
 ---------------------------------------
 
 
+## FUNCOMPANY INSTALL AND RUN LOCALLY DIRECTIONS:
+
+- git clone repository
+- npm install
+- gulp build
+- In fun-message-router change sugar dependency line to "sugar": "file:../sugar"
+- yarn install
+
+## FUNCOMPANY PUBLISH CHANGES
+
+- Just run npm publish AFTER running gulp build
+
 # v2.0.4
 
 ### [sugar.js](https://raw.githubusercontent.com/andrewplummer/Sugar/2.0.4/dist/sugar.js) | [sugar.min.js (24kb gz)](https://raw.githubusercontent.com/andrewplummer/Sugar/2.0.4/dist/sugar.min.js)
